@@ -1,0 +1,6 @@
+@FluentValidationSample_HostAddress = http://localhost:5176
+
+GET {{FluentValidationSample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
